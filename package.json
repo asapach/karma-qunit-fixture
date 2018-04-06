@@ -1,0 +1,25 @@
+{
+  "name": "karma-qunit-fixture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asapach/karma-qunit-fixture.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asapach/karma-qunit-fixture/issues"
+  },
+  "homepage": "https://github.com/asapach/karma-qunit-fixture#readme",
+  "devDependencies": {
+    "karma": "^2.0.0",
+    "karma-phantomjs-launcher": "^1.0.4",
+    "karma-qunit": "^2.0.1",
+    "qunit": "^2.6.0"
+  }
+}
